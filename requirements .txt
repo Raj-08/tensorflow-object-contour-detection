@@ -1,0 +1,4 @@
+cv2
+tensorflow
+numpy
+time

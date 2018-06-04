@@ -35,4 +35,14 @@ python eval.py \
     --image_dir = ${path to image directory} \
     --eval_crop_size=480 \
     --eval_text =  ${path to eval text file}
+
 ```
+**Results :**
+
+<img src="./000999.jpg" alt="Image_1"/>
+
+<img src="./000999.png" alt="prediction_1"/>
+
+<img src="./000129.jpg" alt="Image_1"/>
+
+<img src="./000129.png" alt="prediction_1"/>

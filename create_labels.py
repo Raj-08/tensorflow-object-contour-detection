@@ -1,7 +1,4 @@
 import cv2
-path_to_labels = ''
-if path_to_labels==False:
-    print('Path to labels missing')
 path_to_new_labels = ''    
 if path_to_new_labels==False:
     print('Path to new labels missing')
